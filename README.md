@@ -16,6 +16,8 @@ You'll see the link after the Upload gets Complete
 
 ## Requirements:
 - ```curl``` and ```jq``` must be installed.
+- Use upload.sh it will install these packages if missing.
+- Use upload_old.sh if ```curl``` and ```jq``` already installed.
 
 ##
 
